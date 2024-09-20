@@ -1,0 +1,5 @@
+soru1-A
+soru2-B
+Soru3-C
+Soru4-D
+Soru5-E
